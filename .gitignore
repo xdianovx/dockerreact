@@ -1,6 +1,0 @@
-.idea
-.vscode
-.next
-node_modules/
-jspm_packages/
-dist/
